@@ -13,4 +13,5 @@ Año de nacimiento: 1975
 Lugar de residencia: Rosario
 Domicilio: Valparaiso 1381
 
+la versión actual 1.0.0
 # INGSOF
